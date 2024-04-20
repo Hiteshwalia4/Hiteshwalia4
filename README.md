@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Short Answer Evaluation Tool : EvaluaText Pro, 
-- 🌱 I’m currently learning: Web Development
+- 🔭 I’m currently working on: Text Summarization Tool : SummaNLP, 
+- 🌱 I’m currently learning: Deep Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: Short Answer Evaluation Tool, EvaluaText Pro
-- 🌱 I’m currently learning: Web Development
+- 🔭 I’m currently working on: Text Summarization Tool, SummaNLP
+- 🌱 I’m currently learning: Deep Learning
 - 💬 Ask me about: Machine Learning, Natural Language Processing
 - ⚡ Fun fact: The world's first website, created by Sir Tim Berners-Lee, is still online. It was launched in 1991 and provided information about the World Wide Web project. You can visit it at "http://info.cern.ch."
 
